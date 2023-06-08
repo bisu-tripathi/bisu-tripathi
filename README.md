@@ -1,8 +1,11 @@
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://avatars.githubusercontent.com/u/68800305?s=40&v=4)
+![Header](https://scontent.fktm16-1.fna.fbcdn.net/v/t39.30808-6/269602128_969188437051047_6014066488508650739_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=J-DzKN_N_ZcAX8-XX4T&_nc_ht=scontent.fktm16-1.fna&oh=00_AfDqko-9Hxl81xhDDQIPsnR8dgwZ6c31A_I83u6OB4rdOQ&oe=64863807)
 <h1 align="center">Hi 👋, I'm Bishal D.C Tripathi</h1>
 <h3 align="center">A passionate frontend developer from Nepal 🇳🇵</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/4zeM.gif">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bisu-tripathi&label=Profile%20views&color=0e75b6&style=flat" alt="bisu-tripathi" /> </p>
 
