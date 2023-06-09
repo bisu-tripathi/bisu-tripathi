@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Bishal D.C Tripathi</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Bishal+D.C+Tripathi.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&pause=1000&color=FF00F8&background=FFFFFF00&width=435&lines=I+am+a+Mobile+App+Developer.)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from Nepal 🇳🇵</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/4zeM.gif">
 
